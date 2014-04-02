@@ -10,7 +10,7 @@ Overview
 * Drupal Pros (Modularity, Flexibility, Stability, Community)
 * Drupal Cons (Bare bones, Steep learning curve, modules not always plug and play, Hard for lay users, lack of decent themes)
 * What it's good for: Large custom sites, Enterprise level sites, Gov sites, multiple content heavy sites
-* Some examples: [data.gov.uk](http://data.gov.uk), [The Economist](https://drupal.org/node/915102), [Examiner.com](http://www.examiner.com/), [The Whitehouse](http://www.whitehouse.gov/), [Smithsonian Institution Transcriptions](http://transcription.si.edu/).
+* Some examples: [data.gov.uk](http://data.gov.uk), [The Economist](https://drupal.org/node/915102), [The Whitehouse](http://www.whitehouse.gov/), [Smithsonian Institution Transcriptions](http://transcription.si.edu/), [Harvard.edu](http://www.harvard.edu/), [NASA](http://www.nasa.gov/), [Fast Company](http://www.fastcompany.com/), and [Amnesty International](http://www.amnesty.org/).
 
 Whats Now
 -------
