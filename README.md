@@ -1,12 +1,13 @@
-About Us
+About Me
 --------
 * Developing on Drupal for about 2 years
-* Mix of government and private sites (MLKday.gov, VISTA Campus, Bankers Without Borders)
-* Baltimore | Austin | Jackson 
+* Mix of government and private sites (MLKday.gov, VISTA Campus, Bankers Without Borders, Landmark Learning)
+* UX & Web Development Director @[Eye Byte Solutions](http://eyebytesolutions.com/): Baltimore | Austin | Jackson 
 
 Overview
 ========
-* PHP & MySQL (standard LAMP stack).
+What is Drupal, and what is it good for?
+* PHP & MySQL based CMS (standard LAMP stack).
 * Drupal Pros (Modularity, Flexibility, Stability, Community).
 * Drupal Cons (Bare bones, Steep learning curve, modules not always plug and play, Hard for lay users, lack of decent themes).
 * What it's good for: Large custom sites, Enterprise level sites, Gov sites, multiple content heavy sites.
@@ -26,7 +27,7 @@ Distributions
 Generally speaking, Distributions combine core Drupal, contributed modules, themes, and pre-defined configuration into one download.
 * Also can create your own distro/configure your own custom Installation Profile. (public or Private). We have a base Distro we created with basic modules/settings we re-use for most builds.
 * Distros are great for standing up a complete (ish) site (saves time for quick builds, beginers). Also, sometimes it can be helpful to deconstruct operations you may wish to mimic/modify.
-* A word of warning on Distros, watch out for those with custom Modules.
+* A word of warning on Distros, watch out for those with custom Modules, unless they are well supported.
 * Some good examples: [Commerce Kickstart](https://drupal.org/project/commerce_kickstart), [OpenPublic](https://drupal.org/project/openpublic), [OpenChurch](https://drupal.org/project/openchurch).
 
 Sub Themes
@@ -70,6 +71,7 @@ A suite of modules containing fun for module developers and themers.
 Whats Next
 -------
 * Drupal 8 (Feature freeze, release goal mid 2014)
+* Most "major, well supported" modules pledged to be D8 ready on the day it drops.
 * Views integration out of the box
 * Web services out of the box (including views, also see Symphony note below)
 * Drush out of the box.
