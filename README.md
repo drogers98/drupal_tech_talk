@@ -19,7 +19,6 @@ Whats Now
 * 26,110 contributed modules.
 * Over 1,047,545 Community users on D.O.
 * phptemplate theming engine.
-* 
 
 What's Cool
 ==========
